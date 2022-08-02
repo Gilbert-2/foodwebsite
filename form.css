@@ -1,0 +1,11 @@
+body{
+	left:400px;
+	position:absolute;
+	border:none;
+	background:url(egg.jpg) no-repeat;
+	background-size: cover;
+}
+form{
+	
+	border-radius: 20px;
+}
